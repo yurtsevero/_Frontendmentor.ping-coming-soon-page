@@ -164,6 +164,12 @@ footer {
     bottom: -32px;
     left: 32px;
   }
+  form input {
+    height: 56px;
+  }
+  #email {
+    width: 420px;
+  }
   #btnNotify {
     width: 200px;
     margin-left: 1rem;
